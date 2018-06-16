@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Clean house
+rm *.bib
+
 # Bring in bibliography files that are clinically appropriate
 cp ../bibliography/clinical_cases.bib .
 cp ../bibliography/medical_education.bib .
