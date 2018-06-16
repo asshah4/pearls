@@ -1,0 +1,53 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            black pearls
+tagline:          'Potentially dangerous learnings from the wards'
+description:      'Small interruptions of learning that occurred between mistakes on the wards'
+url:              http://asshah4.github.io
+baseurl:          /pearls
+
+author:
+  name:           'Anish Shah'
+  url:            https://twitter.com/
+
+paginate:         5
+
+# Custom vars
+version:          0.3.0
+
+github:
+  repo:           https://github.com/asshah4/pearls
+
+
+# Scholar settings
+scholar:
+  style: american-medical-association
+  locale: en
+
+  sort_by: none
+  order: ascending
+
+  source: .
+  bibliography: bibfile.bib
+  bibliography_template: "{{reference}}"
+  use_raw_bibtex_entry: false
+  bibliography_item_tag: ul
+
+  replace_strings: true
+  join_strings:    true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
+
+# Gems
+plugins: [jekyll-paginate, jekyll-gist, jekyll-scholar]
+
