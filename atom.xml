@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>black pearls</title>
+ <link href="http://asshah4.github.io/atom.xml" rel="self"/>
+ <link href="http://asshah4.github.io/"/>
+ <updated>2018-06-16T12:33:35-05:00</updated>
+ <id>http://asshah4.github.io</id>
+ <author>
+   <name>Anish Shah</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Loop Diuretics</title>
+   <link href="http://asshah4.github.io/2018/06/16/loop-diuretics/"/>
+   <updated>2018-06-16T00:00:00-05:00</updated>
+   <id>http://asshah4.github.io/2018/06/16/loop-diuretics</id>
+   <content type="html">&lt;h2 id=&quot;contents&quot;&gt;Contents&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#mechanism&quot;&gt;Mechanism&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#pharmacokinetics&quot;&gt;Pharmacokinetics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#dosing&quot;&gt;Dosing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#references&quot;&gt;References&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;mechanism&quot;&gt;Mechanism&lt;/h2&gt;
+
+&lt;h2 id=&quot;pharmacokinetics&quot;&gt;Pharmacokinetics&lt;/h2&gt;
+
+&lt;h2 id=&quot;dosing&quot;&gt;Dosing&lt;/h2&gt;
+
+&lt;h3 id=&quot;loop-resistance&quot;&gt;Loop resistance&lt;/h3&gt;
+
+&lt;h3 id=&quot;sequential-nephron-blockade&quot;&gt;Sequential nephron blockade&lt;/h3&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+</content>
+ </entry>
+ 
+
+</feed>
