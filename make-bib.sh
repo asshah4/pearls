@@ -4,13 +4,12 @@
 rm *.bib
 
 # Bring in bibliography files that are clinically appropriate
-cp ../bibliography/clinical_cases.bib .
-cp ../bibliography/medical_education.bib .
+cp ../bibliography/medicine.bib .
 
 # Trim headers off of all files
 sed -i '' 1,5d *.bib
 
-# Combine files together
+# Move files into a tmp compilation
 cat *.bib > tmp
 
 # Insert the YAML header files needed
