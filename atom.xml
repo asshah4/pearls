@@ -4,13 +4,75 @@
  <title>black pearls</title>
  <link href="http://asshah4.github.io/atom.xml" rel="self"/>
  <link href="http://asshah4.github.io/"/>
- <updated>2018-06-22T19:17:08-04:00</updated>
+ <updated>2018-06-22T23:16:09-04:00</updated>
  <id>http://asshah4.github.io</id>
  <author>
    <name>Anish Shah</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Pathology and pathogenesis of alkalosis</title>
+   <link href="http://asshah4.github.io/2018/06/22/alkalosis-pathophysiology/"/>
+   <updated>2018-06-22T00:00:00-04:00</updated>
+   <id>http://asshah4.github.io/2018/06/22/alkalosis-pathophysiology</id>
+   <content type="html">&lt;h2 id=&quot;pathogenesis&quot;&gt;Pathogenesis&lt;/h2&gt;
+
+&lt;p&gt;Alkalosis is the process of reduction of the [H+] in arterial blood plasma, which may result in an alkalemia ( pH &amp;gt; 7.45). The entire process is initiated by either the loss of acid, or the retention or concentration of bicarbonate, and then there is a maintenance process of increased renal bicarbonate reabsorption.&lt;/p&gt;
+
+&lt;h3 id=&quot;initiation&quot;&gt;Initiation&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Process&lt;/th&gt;
+      &lt;th&gt;Examples&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Gain of bicarbonate&lt;/td&gt;
+      &lt;td&gt;increased metabolism of ketoacids, or administration of bicarbonate or its precursors (e.g. citrate, lactate, antacids, etc)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Loss of acid&lt;/td&gt;
+      &lt;td&gt;diuretics (causing sodium and hydrogen loss), through GI means (e.g. vomiting), increased H+ movement into the cells (e.g. during hypokalemia)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;maintenance&quot;&gt;Maintenance&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reduction of intra-arterial blood volume&lt;/li&gt;
+  &lt;li&gt;Hypochloremia&lt;/li&gt;
+  &lt;li&gt;Hypokalemia&lt;/li&gt;
+  &lt;li&gt;Increased sodium reabsorption in the distal convoluted tubules (ENaC favors excretion of hydrogen and potassium in exchange)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;pathophysiology&quot;&gt;Pathophysiology&lt;/h2&gt;
+
+&lt;p&gt;Mortality is increased with alkalemia, with a pH &amp;gt; 7.55 having up to 45% risk for mortality, and pH &amp;gt; 7.65 having up to an 80% risk for mortality.(missing reference) Metabolic alkalosis is also the most common acid-base disorder in the ICU.(missing reference) &lt;em&gt;Interestingly, in 2017 there was a study on alkalemia in sepsis/septic shock, and although length of stay was extended, 30 day and 12 month mortality was not increased.&lt;/em&gt;(missing reference)&lt;/p&gt;
+
+&lt;h3 id=&quot;respiratory&quot;&gt;Respiratory&lt;/h3&gt;
+
+&lt;p&gt;Compensatory hypoventilation is mediated through central chemoreceptors, however in the periphery there is also decrease O2 delivery by: (1) the Bohr effect and the shifting of the oxygen dissociation curve of hemoglobin, (2) vasoconstrictor effect with subsequent decreased perfusion of the brain, heart, and peripheral circulation (which thus reduces O2 deliver). The blood flow and cardiovascular impact is partially mediated by vascular smooth muscle tone, which increases with elevated pH (regardless of it being respiratory or metabolic alkalosis), which subsequently has downstream effects on the heart and brain.&lt;/p&gt;
+
+&lt;h3 id=&quot;cardiovascular&quot;&gt;Cardiovascular&lt;/h3&gt;
+
+&lt;p&gt;In coronary disease, patients will have decreased myocardial oxygen delivery with hyperventilation (an induction of respiratory alkalosis), along with decreased coronary blood flow, and increased coronary vascular resistance. When exercised or stressed, the coronary arteries will also have an attenuated vasodilatory response. However, the use of bicarbonate in code situations to reverse is complex, as the acid production due to hypoperfusion cannot be corrected (normally through [H+] and [HCO3-] combining to form H2 and CO2 to be exhaled) unless adequate perfusion and ventilation are initiated, as it can temporarily lead to an increased PaCo2 level which in turn leads to decreased cardiac contractility and fibrillatory thresholds.&lt;/p&gt;
+
+&lt;h3 id=&quot;neurologic&quot;&gt;Neurologic&lt;/h3&gt;
+
+&lt;p&gt;The initial bicarbonate infusion (such as during codes) leads to rapid Co2 rises and lowered pH, particularly in the cereberal circulation (coined “paradoxic cerebral acidosis”), which in turn leads to local vasodilation. However, in non-code situations, such as in ischemic stroke, the effects are different. Systemic alkalosis worsens electrophysiological recovery after cerebral ischemia (actually mediated through an NMDA-receptor meganism), regardless of pH, due to glutamate-induced excitotoxicity.  Other mechanisms include increased serum pH increases un-ionized nitrogen compound production (such as NH3) leading to CNS penetration which can worsen encephalopathy. The tetany and parasthesias accompanying alkalosis however are more directly mediated from cation depletion as part of the renal response.&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;/ol&gt;
+
+</content>
+ </entry>
  
 
 </feed>
