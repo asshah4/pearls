@@ -4,7 +4,7 @@
  <title>black pearls</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-06-22T19:16:30-04:00</updated>
+ <updated>2018-06-23T21:27:21-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Anish Shah</name>
@@ -53,7 +53,7 @@
 
 &lt;h2 id=&quot;pathophysiology&quot;&gt;Pathophysiology&lt;/h2&gt;
 
-&lt;p&gt;Mortality is increased with alkalemia, with a pH &amp;gt; 7.55 having up to 45% risk for mortality, and pH &amp;gt; 7.65 having up to an 80% risk for mortality.(missing reference) Metabolic alkalosis is also the most common acid-base disorder in the ICU.(missing reference) &lt;em&gt;Interestingly, in 2017 there was a study on alkalemia in sepsis/septic shock, and although length of stay was extended, 30 day and 12 month mortality was not increased.&lt;/em&gt;(missing reference)&lt;/p&gt;
+&lt;p&gt;Mortality is increased with alkalemia, with a pH &amp;gt; 7.55 having up to 45% risk for mortality, and pH &amp;gt; 7.65 having up to an 80% risk for mortality.&lt;a href=&quot;#Anderson1987&quot;&gt;&lt;span style=&quot;vertical-align: super&quot;&gt;1&lt;/span&gt;&lt;/a&gt; Metabolic alkalosis is also the most common acid-base disturbance in the ICU.&lt;a href=&quot;#Mæhle2014&quot;&gt;&lt;span style=&quot;vertical-align: super&quot;&gt;2&lt;/span&gt;&lt;/a&gt;  &lt;em&gt;Interestingly, in 2017 there was a study on alkalemia in sepsis/septic shock, and although length of stay was extended, 30 day and 12 month mortality was not increased.&lt;/em&gt;&lt;a href=&quot;#Jazrawi2017&quot;&gt;&lt;span style=&quot;vertical-align: super&quot;&gt;3&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;respiratory&quot;&gt;Respiratory&lt;/h3&gt;
 
@@ -69,8 +69,81 @@
 
 &lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;/ol&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;ul&gt;&lt;span id=&quot;Anderson1987&quot;&gt;1. Anderson LE, Henrich WL. Alkalemia-associated morbidity and mortality in medical and surgical patients. &lt;i&gt;Southern medical journal&lt;/i&gt;. 1987;80(6):729–733. http://www.ncbi.nlm.nih.gov/pubmed/3589765.&lt;/span&gt;
 
+&lt;div id=&quot;Anderson1987-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+
+    
+    &lt;li&gt;URL: &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/3589765&quot;&gt;http://www.ncbi.nlm.nih.gov/pubmed/3589765&lt;/a&gt;&lt;/li&gt;
+    
+    
+
+  &lt;/ul&gt;
+ 
+&lt;/div&gt;
+&lt;/ul&gt;
+&lt;ul&gt;&lt;span id=&quot;Mæhle2014&quot;&gt;2. Mæhle K, Haug B, Flaatten H, Nielsen EW. Metabolic alkalosis is the most common acid-base disorder in ICU patients. &lt;i&gt;Critical Care&lt;/i&gt;. 2014;18(2):420. doi:10.1186/cc13802.&lt;/span&gt;
+
+&lt;div id=&quot;Mæhle2014-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+
+    
+    &lt;li&gt;URL: &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/25001067 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4056091 http://ccforum.biomedcentral.com/articles/10.1186/cc13802&quot;&gt;http://www.ncbi.nlm.nih.gov/pubmed/25001067 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4056091 http://ccforum.biomedcentral.com/articles/10.1186/cc13802&lt;/a&gt;&lt;/li&gt;
+    
+    
+    &lt;li&gt;DOI: &lt;a href=&quot;http://dx.doi.org/10.1186/cc13802&quot;&gt;10.1186/cc13802&lt;/a&gt;&lt;/li&gt;
+    
+
+  &lt;/ul&gt;
+ 
+&lt;/div&gt;
+&lt;/ul&gt;
+&lt;ul&gt;&lt;span id=&quot;Jazrawi2017&quot;&gt;3. Jazrawi A, Miller J, Baigi A, Chew M. Alkalosis in Critically Ill Patients with Severe Sepsis and Septic Shock. &lt;i&gt;PLoS ONE&lt;/i&gt;. 2017;doi:10.137(1):1–10. doi:10.1371/journal.pone.0168563.&lt;/span&gt;
+
+&lt;div id=&quot;Jazrawi2017-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+
+    
+    &lt;li&gt;URL: &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/28045915 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5207677&quot;&gt;http://www.ncbi.nlm.nih.gov/pubmed/28045915 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5207677&lt;/a&gt;&lt;/li&gt;
+    
+    
+    &lt;li&gt;DOI: &lt;a href=&quot;http://dx.doi.org/10.1371/journal.pone.0168563&quot;&gt;10.1371/journal.pone.0168563&lt;/a&gt;&lt;/li&gt;
+    
+
+  &lt;/ul&gt;
+ 
+&lt;/div&gt;
+&lt;/ul&gt;&lt;/ol&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Loop Diuretics</title>
+   <link href="http://localhost:4000/2018/06/16/loop-diuretics/"/>
+   <updated>2018-06-16T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2018/06/16/loop-diuretics</id>
+   <content type="html">&lt;h2 id=&quot;contents&quot;&gt;Contents&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#mechanism&quot;&gt;Mechanism&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#pharmacokinetics&quot;&gt;Pharmacokinetics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#dosing&quot;&gt;Dosing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#references&quot;&gt;References&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;mechanism&quot;&gt;Mechanism&lt;/h2&gt;
+
+&lt;h2 id=&quot;pharmacokinetics&quot;&gt;Pharmacokinetics&lt;/h2&gt;
+
+&lt;h2 id=&quot;dosing&quot;&gt;Dosing&lt;/h2&gt;
+
+&lt;h3 id=&quot;loop-resistance&quot;&gt;Loop resistance&lt;/h3&gt;
+
+&lt;h3 id=&quot;sequential-nephron-blockade&quot;&gt;Sequential nephron blockade&lt;/h3&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
 </content>
  </entry>
  

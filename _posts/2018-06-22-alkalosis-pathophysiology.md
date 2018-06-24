@@ -23,7 +23,7 @@ Loss of acid | diuretics (causing sodium and hydrogen loss), through GI means (e
 
 ## Pathophysiology
 
-Mortality is increased with alkalemia, with a pH > 7.55 having up to 45% risk for mortality, and pH > 7.65 having up to an 80% risk for mortality.{% cite Anderson2017 %} Metabolic alkalosis is also the most common acid-base disorder in the ICU.{% cite Mæhle2014 %} *Interestingly, in 2017 there was a study on alkalemia in sepsis/septic shock, and although length of stay was extended, 30 day and 12 month mortality was not increased.*{% cite Jazrawi2017 %}
+Mortality is increased with alkalemia, with a pH > 7.55 having up to 45% risk for mortality, and pH > 7.65 having up to an 80% risk for mortality.{% cite Anderson1987 %} Metabolic alkalosis is also the most common acid-base disturbance in the ICU.{% cite Mæhle2014 %}  *Interestingly, in 2017 there was a study on alkalemia in sepsis/septic shock, and although length of stay was extended, 30 day and 12 month mortality was not increased.*{% cite Jazrawi2017 %}
 
 ### Respiratory
 

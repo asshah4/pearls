@@ -32,10 +32,10 @@ scholar:
   sort_by: none
   order: ascending
 
-  source: .
+  source: _bibliography/
   bibliography: bibfile.bib
-  bibliography_template: "{{reference}}"
-  use_raw_bibtex_entry: false
+  bibliography_template: bibliography
+  use_raw_bibtex_entry: true
   bibliography_item_tag: ul
 
   replace_strings: true
