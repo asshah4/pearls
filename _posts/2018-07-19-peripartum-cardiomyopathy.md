@@ -45,6 +45,15 @@ Theoretically, after 5 months postpartum there is a chance at recovery of ejecti
 
 Standard heart failure management, after delivery, is the recommended course. Early beta-blockage, even at low dosages, may be protective even in those with severely depressed ejection fraction, along with ivabradine. However, in terms of treatment to help with actual recovery, novel studies suggest bromocriptine, with results showing ~90% with improvement, and ~50% with full recovery{% cite Haghikia2013 %}.
 
+## Take away points
+
+1. PPCM has rising incidence in the US
+1. Its an idiopathic cardiomyopathy with lV dysfunction at the end of pregnancy or months after pregnancy
+1. TTE is the mainstay for diagnosis, but cardiac MRI is being investigated
+1. Low selenium levels, viruses, inflammation, and hemodynamic stressors are important to developing PPCM
+1. Important biomarkers: N-terminal pro-BNP, prolactin, interferon gamma, ADMA, cathepsin D, microRNA-146a
+1. Treat like other heart failure guidelines, however bromocriptine can help in the acute setting in recovering function
+1. If they get pregnant again, there’s a high risk of worsening of cardiac function
 
 ## References
 
