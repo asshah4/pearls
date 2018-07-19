@@ -4,13 +4,96 @@
  <title>black pearls</title>
  <link href="http://asshah4.github.io/atom.xml" rel="self"/>
  <link href="http://asshah4.github.io/"/>
- <updated>2018-07-19T10:43:34-04:00</updated>
+ <updated>2018-07-19T10:48:08-04:00</updated>
  <id>http://asshah4.github.io</id>
  <author>
    <name>Anish Shah</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Peripartum cardiomyopathy</title>
+   <link href="http://asshah4.github.io/2018/07/19/peripartum-cardiomyopathy/"/>
+   <updated>2018-07-19T00:00:00-04:00</updated>
+   <id>http://asshah4.github.io/2018/07/19/peripartum-cardiomyopathy</id>
+   <content type="html">&lt;h2 id=&quot;context&quot;&gt;Context&lt;/h2&gt;
+
+&lt;p&gt;During pregnancy, the body goes through significant hemodynamic changes. RAAS activation maintains blood pressure during the first trimester. Cardiac remodeling begins to occur to increase left-ventricular mass, along with enhanced angiogenesis. Delivery itself leads to a state of maximum cardiac output with increased catecholamines and auto transfusion of 300-500 mL of blood from the uterus into maternal circulation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://asshah4.github.io/pearls/assets/hemodynamic-changes-pregnancy.png&quot; alt=&quot;hemodynamic-changes-pregnancy.png&quot; class=&quot;img-responsive&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This figure shows the concept that pregnancy leads to a period of dilation and hypertrophy that will be required to generate higher cardiac outputs to assist with delivery&lt;a href=&quot;#Ruys2013&quot;&gt;&lt;span style=&quot;vertical-align: super&quot;&gt;1&lt;/span&gt;&lt;/a&gt;. This may lead to a period of vulnerability.&lt;/p&gt;
+
+&lt;h2 id=&quot;definition&quot;&gt;Definition&lt;/h2&gt;
+
+&lt;p&gt;The working definition, most recently described by the European Society of Cardiology in 2010:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Idiopathic cardiomyopathy, diagnosis of exclusion&lt;/li&gt;
+  &lt;li&gt;Reduced ejection fraction &amp;lt; 45% (ventricle does not need to be dilated)&lt;/li&gt;
+  &lt;li&gt;Presenting at the end of pregnancy or in the months following delivery&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-raises-suspicion&quot;&gt;What raises suspicion?&lt;/h2&gt;
+
+&lt;p&gt;The classic phenotype to be at high risk for PPCM is an African descent, multiparty, pregnancy complications (preeclampsia, eclampsia, gestational hypertension), greater than 30 years of age, cocaine abuse, and beta agonist use (tocolytic therapy), and family history.&lt;/p&gt;
+
+&lt;h3 id=&quot;genetic-etiology&quot;&gt;Genetic etiology&lt;/h3&gt;
+
+&lt;p&gt;The incidence of this is quoted from 1:1000-4000 in the USA, with rising numbers. Its less frequent in Northern Europe and even less so in Asia. In Africa however there is a much higher risk, with 1:300 in Haiti, and up to 1:100 in a city in Nigeria (this particular area has a tradition of eating a ritual lake salt 40 days postpartum(missing reference). This suggests a cultural pattern versus an underlying genomic influence. In addition, family history increases risk of developing PPCM, suggesting a genetic etiology.&lt;/p&gt;
+
+&lt;h3 id=&quot;inflammation-and-autoimmune-response&quot;&gt;Inflammation and autoimmune response&lt;/h3&gt;
+
+&lt;p&gt;Myocarditis and higher levels of inflammatory markers have been found during acute PPCM. This has led to potential viral etiologies, but biopsies results have been varied in results in different populations.&lt;/p&gt;
+
+&lt;h3 id=&quot;cardiac-demand-and-adrenergic-toxicity&quot;&gt;Cardiac demand and adrenergic toxicity&lt;/h3&gt;
+
+&lt;p&gt;Risk factors that include cocaine, hypertension, like eclampsia, and beta agonism have all shown higher trends of PPCM.&lt;/p&gt;
+
+&lt;h3 id=&quot;angiogenesis-and-oxidative-stress&quot;&gt;Angiogenesis and oxidative stress&lt;/h3&gt;
+
+&lt;p&gt;Prolactin is cleaved by hormones of pregnancy (e.g. cathepsin D) into angiostatin and pro-apoptotic fragments. Acute PPCM shows increased oxidative stress and increased serum enzyme levels. Both apoptosis and angiogenesis failure seem to be indicated (at least in mouse models)&lt;/p&gt;
+
+&lt;h2 id=&quot;recovery&quot;&gt;Recovery&lt;/h2&gt;
+
+&lt;p&gt;Theoretically, after 5 months postpartum there is a chance at recovery of ejection fraction. The markers that suggest lack of recovery include LVEF &amp;lt; 30% and LVEDD &amp;gt; 6 cm.&lt;/p&gt;
+
+&lt;p&gt;Standard heart failure management, after delivery, is the recommended course. Early beta-blockage, even at low dosages, may be protective even in those with severely depressed ejection fraction, along with ivabradine. However, in terms of treatment to help with actual recovery, novel studies suggest bromocriptine, with results showing ~90% with improvement, and ~50% with full recovery&lt;a href=&quot;#Haghikia2013&quot;&gt;&lt;span style=&quot;vertical-align: super&quot;&gt;2&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;take-away-points&quot;&gt;Take away points&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;PPCM has rising incidence in the US&lt;/li&gt;
+  &lt;li&gt;Its an idiopathic cardiomyopathy with lV dysfunction at the end of pregnancy or months after pregnancy&lt;/li&gt;
+  &lt;li&gt;TTE is the mainstay for diagnosis, but cardiac MRI is being investigated&lt;/li&gt;
+  &lt;li&gt;Low selenium levels, viruses, inflammation, and hemodynamic stressors are important to developing PPCM&lt;/li&gt;
+  &lt;li&gt;Important biomarkers: N-terminal pro-BNP, prolactin, interferon gamma, ADMA, cathepsin D, microRNA-146a&lt;/li&gt;
+  &lt;li&gt;Treat like other heart failure guidelines, however bromocriptine can help in the acute setting in recovering function&lt;/li&gt;
+  &lt;li&gt;If they get pregnant again, there’s a high risk of worsening of cardiac function&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;ul&gt;&lt;span id=&quot;Ruys2013&quot;&gt;1. Ruys TPE, Cornette J, Roos-Hesselink JW. Pregnancy and delivery in cardiac disease. &lt;i&gt;Journal of Cardiology&lt;/i&gt;. 2013;61(2):107–112. doi:10.1016/j.jjcc.2012.11.001.&lt;/span&gt;
+
+&lt;div id=&quot;Ruys2013-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+
+  &lt;/ul&gt;
+ 
+&lt;/div&gt;
+&lt;/ul&gt;
+&lt;ul&gt;&lt;span id=&quot;Haghikia2013&quot;&gt;2. Haghikia A, Podewski E, Libhaber E, et al. Phenotyping and outcome on contemporary management in a German cohort of patients with peripartum cardiomyopathy. &lt;i&gt;Basic Research in Cardiology&lt;/i&gt;. 2013;108(4):366. doi:10.1007/s00395-013-0366-9.&lt;/span&gt;
+
+&lt;div id=&quot;Haghikia2013-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+
+  &lt;/ul&gt;
+ 
+&lt;/div&gt;
+&lt;/ul&gt;&lt;/ol&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Pathology and pathogenesis of alkalosis</title>
