@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sonographic visualization of an S3
-tags: [physical exam, cards]
+tags: physical-exam cards
 ---
 
 ## Can you see an S3?

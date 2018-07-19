@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pathology and pathogenesis of alkalosis 
-tags: [renal, critical care, physiology]
+tags: renal critical-care physiology
 ---
 
 ## Pathogenesis
