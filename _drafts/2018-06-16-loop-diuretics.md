@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Loop Diuretics
+tags: [cards, renal, drugs]
 ---
 
 ## Contents

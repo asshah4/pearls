@@ -4,13 +4,30 @@
  <title>black pearls</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-06-23T21:27:21-04:00</updated>
+ <updated>2018-07-18T21:52:02-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Anish Shah</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Sonographic visualization of an S3</title>
+   <link href="http://localhost:4000/2018/07/17/s3-heart-sounds/"/>
+   <updated>2018-07-17T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2018/07/17/s3-heart-sounds</id>
+   <content type="html">&lt;h2 id=&quot;can-you-see-an-s3&quot;&gt;Can you see an S3?&lt;/h2&gt;
+
+&lt;p&gt;The third heart sound (S3) is thought to be from abrupt deceleration of the left ventricular inflow during early diastole, in the context of increased LV filling pressures and decreased LV compliance. This abrupt change in acceleration is thought to cause vibration in the cardiac chamber, including the chordae and the papillary muscles.&lt;/p&gt;
+
+&lt;p&gt;Many studies show that S3 occurs at the peak of early diastolic filling, during the deceleration phase of early mitral inflow (the E wave). S3 is associated with increased early mitral inflow (higher E waves), decrease in the early mitral inflow deceleration time, and a more rapid deceleration all associate with presence/intensity of the S3 heart sound. Further, the E/E’ measurement is an even stronger marker and describes not only LV filling pressures but LV stiffness in early diastole.&lt;a href=&quot;#Shah2008&quot;&gt;&lt;span style=&quot;vertical-align: super&quot;&gt;1&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/sonographic-s3.jpg&quot; alt=&quot;sonographic-s3.jpg&quot; class=&quot;img-responsive&quot; width=&quot;400px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;E’ is not fluid velocity (pulse wave doppler) but instead is tissue doppler analysis. The idea of E/E’ ratio means that there is rapid/abrupt mitral inflow creating a large E wave, with corresponding small E’ wave, meaning poor diastolic relaxation/movement, and that ratio is highly indicative of an S3.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Pathology and pathogenesis of alkalosis</title>
@@ -74,11 +91,6 @@
 &lt;div id=&quot;Anderson1987-materials&quot;&gt;
   &lt;ul class=&quot;nav nav-pills&quot;&gt;
 
-    
-    &lt;li&gt;URL: &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/3589765&quot;&gt;http://www.ncbi.nlm.nih.gov/pubmed/3589765&lt;/a&gt;&lt;/li&gt;
-    
-    
-
   &lt;/ul&gt;
  
 &lt;/div&gt;
@@ -87,13 +99,6 @@
 
 &lt;div id=&quot;Mæhle2014-materials&quot;&gt;
   &lt;ul class=&quot;nav nav-pills&quot;&gt;
-
-    
-    &lt;li&gt;URL: &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/25001067 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4056091 http://ccforum.biomedcentral.com/articles/10.1186/cc13802&quot;&gt;http://www.ncbi.nlm.nih.gov/pubmed/25001067 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4056091 http://ccforum.biomedcentral.com/articles/10.1186/cc13802&lt;/a&gt;&lt;/li&gt;
-    
-    
-    &lt;li&gt;DOI: &lt;a href=&quot;http://dx.doi.org/10.1186/cc13802&quot;&gt;10.1186/cc13802&lt;/a&gt;&lt;/li&gt;
-    
 
   &lt;/ul&gt;
  
@@ -104,46 +109,11 @@
 &lt;div id=&quot;Jazrawi2017-materials&quot;&gt;
   &lt;ul class=&quot;nav nav-pills&quot;&gt;
 
-    
-    &lt;li&gt;URL: &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/28045915 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5207677&quot;&gt;http://www.ncbi.nlm.nih.gov/pubmed/28045915 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5207677&lt;/a&gt;&lt;/li&gt;
-    
-    
-    &lt;li&gt;DOI: &lt;a href=&quot;http://dx.doi.org/10.1371/journal.pone.0168563&quot;&gt;10.1371/journal.pone.0168563&lt;/a&gt;&lt;/li&gt;
-    
-
   &lt;/ul&gt;
  
 &lt;/div&gt;
 &lt;/ul&gt;&lt;/ol&gt;
 
-</content>
- </entry>
- 
- <entry>
-   <title>Loop Diuretics</title>
-   <link href="http://localhost:4000/2018/06/16/loop-diuretics/"/>
-   <updated>2018-06-16T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2018/06/16/loop-diuretics</id>
-   <content type="html">&lt;h2 id=&quot;contents&quot;&gt;Contents&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#mechanism&quot;&gt;Mechanism&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#pharmacokinetics&quot;&gt;Pharmacokinetics&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#dosing&quot;&gt;Dosing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#references&quot;&gt;References&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;mechanism&quot;&gt;Mechanism&lt;/h2&gt;
-
-&lt;h2 id=&quot;pharmacokinetics&quot;&gt;Pharmacokinetics&lt;/h2&gt;
-
-&lt;h2 id=&quot;dosing&quot;&gt;Dosing&lt;/h2&gt;
-
-&lt;h3 id=&quot;loop-resistance&quot;&gt;Loop resistance&lt;/h3&gt;
-
-&lt;h3 id=&quot;sequential-nephron-blockade&quot;&gt;Sequential nephron blockade&lt;/h3&gt;
-
-&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
 </content>
  </entry>
  

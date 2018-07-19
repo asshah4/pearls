@@ -23,3 +23,15 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+
+<div class="post-tags">
+  {% if post %}
+    {% assign tags = post.tags %}
+  {% else %}
+    {% assign tags = page.tags %}
+  {% endif %}
+  {% for tag in tags %}
+  <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+</div>
