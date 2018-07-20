@@ -6,8 +6,8 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            black pearls
-tagline:          'Potentially dangerous learnings from the wards'
+title:            chalk talks
+tagline:          'Learnings from the wards'
 description:      'Small interruptions of learning that occurred between writing notes'
 url:              http://asshah4.github.io
 baseurl:          /pearls

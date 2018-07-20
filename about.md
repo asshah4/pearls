@@ -3,9 +3,7 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Howdy! This is an series of posts including lectures, clinical pearls (both good and bad), and lessons that have been picked up on the wards.
-</p>
+This is an amalgamation of old lectures, notes, and short pearls picked up from the wards.
 
 ## Setup
 
