@@ -48,5 +48,5 @@ scholar:
   query: "@*"
 
 # Gems
-plugins: [jekyll-paginate, jekyll-gist, jekyll-scholar]
+plugins: [jekyll-paginate, jekyll-gist, jekyll-scholar, jekyll-seo-tag]
 

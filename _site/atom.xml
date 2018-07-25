@@ -1,16 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>black pearls</title>
+ <title>chalk talks</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-07-19T10:43:45-04:00</updated>
+ <updated>2018-07-24T21:22:41-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Anish Shah</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Single ventricle heterotaxy with Kawashima palliation</title>
+   <link href="http://localhost:4000/2018/07/22/single-ventricle-heterotaxy/"/>
+   <updated>2018-07-22T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2018/07/22/single-ventricle-heterotaxy</id>
+   <content type="html">&lt;h2 id=&quot;congenital-heart-anatomy&quot;&gt;Congenital heart anatomy&lt;/h2&gt;
+
+&lt;p&gt;Without having ever seen the heart of a congenital patient, its difficult for me to imagine how their hemodynamics are affected. I looked at a patient a complex congenital heart that had undergone several revisions.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;single ventricle heterotaxy with left isomerism&lt;/li&gt;
+  &lt;li&gt;interrupted IVC with hemiazygous continuation&lt;/li&gt;
+  &lt;li&gt;single ventricle and single ventricle&lt;/li&gt;
+  &lt;li&gt;Kawashima palliation&lt;/li&gt;
+  &lt;li&gt;bidirectional, bilateral Glenn shunts&lt;/li&gt;
+  &lt;li&gt;closure of the pulmonic valve&lt;/li&gt;
+  &lt;li&gt;mechanical atrioventricular valve&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;attempt-at-an-illustration&quot;&gt;Attempt at an illustration&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/single-ventricle-heterotaxy.jpg&quot; alt=&quot;single ventricle heterotaxy&quot; class=&quot;img-responsive&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;/ol&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Peripartum cardiomyopathy</title>
@@ -59,6 +88,18 @@
 &lt;p&gt;Theoretically, after 5 months postpartum there is a chance at recovery of ejection fraction. The markers that suggest lack of recovery include LVEF &amp;lt; 30% and LVEDD &amp;gt; 6 cm.&lt;/p&gt;
 
 &lt;p&gt;Standard heart failure management, after delivery, is the recommended course. Early beta-blockage, even at low dosages, may be protective even in those with severely depressed ejection fraction, along with ivabradine. However, in terms of treatment to help with actual recovery, novel studies suggest bromocriptine, with results showing ~90% with improvement, and ~50% with full recovery&lt;a href=&quot;#Haghikia2013&quot;&gt;&lt;span style=&quot;vertical-align: super&quot;&gt;2&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;take-away-points&quot;&gt;Take away points&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;PPCM has rising incidence in the US&lt;/li&gt;
+  &lt;li&gt;Its an idiopathic cardiomyopathy with lV dysfunction at the end of pregnancy or months after pregnancy&lt;/li&gt;
+  &lt;li&gt;TTE is the mainstay for diagnosis, but cardiac MRI is being investigated&lt;/li&gt;
+  &lt;li&gt;Low selenium levels, viruses, inflammation, and hemodynamic stressors are important to developing PPCM&lt;/li&gt;
+  &lt;li&gt;Important biomarkers: N-terminal pro-BNP, prolactin, interferon gamma, ADMA, cathepsin D, microRNA-146a&lt;/li&gt;
+  &lt;li&gt;Treat like other heart failure guidelines, however bromocriptine can help in the acute setting in recovering function&lt;/li&gt;
+  &lt;li&gt;If they get pregnant again, there’s a high risk of worsening of cardiac function&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
 
